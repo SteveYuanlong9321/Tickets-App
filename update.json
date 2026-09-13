@@ -1,6 +1,6 @@
 {
-  "versionCode": 400,
-  "versionName": "v4.0.0",
+  "versionCode": 450,
+  "versionName": "4.5.0",
   "downloadUrl": "https://github.com/SteveYuanlong9321/Tickets-App/releases/latest/download/app-release.apk",
-  "changelog": "当前为 v4.0.0 正式版本。"
+  "changelog": "4.5.0：优化三星实时窗 / Now Bar 展开卡片文字字号与动态刷新；优化实时窗、超级岛与 Live Update 通道切换稳定性和通道持久化；增强底部导航栏磨砂玻璃视觉效果，小型加号气泡保持不变；统一应用版本信息至 4.5.0 / versionCode 450。"
 }

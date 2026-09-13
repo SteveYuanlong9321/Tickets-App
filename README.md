@@ -1,26 +1,73 @@
 # Tickets-App
-4.0.0
+Tickets · 票据
 
-## 新功能
-- 票据搜索与智能排序
-- 收藏票据与即将到来分类
-- 自动归档
-- JSON 导入 / 导出与备份恢复
-- 二维码 / 条形码识别
-- 普通票据后台提醒
-- Android「闹钟和提醒」权限支持
-- 重启 / App 更新后的提醒恢复
-- FCM 提醒
-- FCM 实时通知
-- 深色自定义弹窗
-- Live Update与小米超级岛持续优化
+一个面向 Android 的本地票据管理应用，支持电影票、车票、机票、演出/门票、取餐码和取件码等票据类型。
 
-## 优化
-- 优化票据输入和编辑体验
-- 优化截图识别与在线识别配置
-- 优化后台处理和大量票据场景性能
-- 减少重复刷新和不必要计算
+当前版本
 
-## 说明
-FCM 默认关闭，可在设置中单独开启。
-普通票据提醒与 FCM 相互独立。
+4.5.0
+Android versionCode: 450
+
+主要功能
+
+票据本地保存与分类浏览
+
+票据搜索、智能排序与收藏优先
+
+已过期票据与自动归档
+
+票据信息复制、分享
+
+JSON 导入 / 导出备份与恢复
+
+图片票据 OCR 识别
+
+二维码 / 条形码识别
+
+本地提醒与设备重启后的提醒恢复
+
+Live Update
+
+Samsung One UI 实时窗 / Now Bar
+
+小米超级岛
+
+FCM 提醒与实时通知能力（按应用设置独立控制）
+
+Samsung One UI 实时窗
+
+4.5.0 继续完善 Samsung Now Bar / 实时窗：
+
+车票、机票、电影票、取餐码、取件码统一动态刷新。
+
+展开态核心标题统一为 13sp，详细内容保持 13sp。
+
+保留票种专用图标、取餐品牌图标和 Samsung 进度显示。
+
+Samsung 专用实时窗通道与 Live Update、超级岛通道彼此独立。
+
+通知通道
+
+应用提供三个独立的实时通知通道：
+
+Live Update
+
+超级岛
+
+Samsung 实时窗 / Now Bar
+
+通道选择会持久化保存。
+
+更新检查
+
+应用从公开仓库的 update.json 获取版本信息，并使用 GitHub Release 的 APK 地址进行更新提示。
+
+更新地址：
+
+https://raw.githubusercontent.com/SteveYuanlong9321/Tickets-App/main/update.json
+
+发布
+
+Release APK：
+
+https://github.com/SteveYuanlong9321/Tickets-App/releases/latest/download/app-release.apk

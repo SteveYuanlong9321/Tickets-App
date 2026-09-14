@@ -56,3 +56,10 @@ Tickets · 票据
 - 优化 Live Update、Now Bar、Super Island 的票据状态同步。
 - 修复 CameraX `ExperimentalGetImage` opt-in 问题。
 - 优化扫码功能稳定性。
+
+5.5.0版本即将来袭，敬请期待，届时将预计增加以下功能，不保证100%增加
+- NFC一碰互传票据
+- 二维码扫码互传票据
+- 智能票夹页排序
+- 票据图片一键分享
+- App桌面小组件完善版本

@@ -1,6 +1,6 @@
 {
   "versionCode": 500,
   "versionName": "5.0.0",
-  "downloadUrl": "https://github.com/SteveYuanlong9321/Tickets-App/releases/download/v5.0.0/",
+  "downloadUrl": "https://github.com/SteveYuanlong9321/Tickets-App/releases/download/v5.0.0/app-release.apk",
   "changelog": "Tickets 5.0.0：新增二维码 / 条形码录入、相机扫码和详情页展示；票夹移除网格视图并加入 Wallet 风格可滑动堆叠；完善各类票据详情信息；优化 Live Update、Samsung Now Bar 与 Xiaomi Super Island 的票种图标、状态显示、展开详情和新版详情页入口；修复 CameraX ExperimentalGetImage opt-in 问题。"
 }

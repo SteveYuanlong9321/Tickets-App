@@ -1,6 +1,6 @@
 {
-  "versionCode": 450,
-  "versionName": "4.5.0",
-  "downloadUrl": "https://github.com/SteveYuanlong9321/Tickets-App/releases/latest/download/app-release.apk",
-  "changelog": "4.5.0：优化三星实时窗 / Now Bar 展开卡片文字字号与动态刷新；优化实时窗、超级岛与 Live Update 通道切换稳定性和通道持久化；增强底部导航栏磨砂玻璃视觉效果，小型加号气泡保持不变；统一应用版本信息至 4.5.0 / versionCode 450。"
+  "versionCode": 500,
+  "versionName": "5.0.0",
+  "downloadUrl": "REPLACE_WITH_GITHUB_RELEASE_APK_URL",
+  "changelog": "Tickets 5.0.0：新增二维码 / 条形码录入、相机扫码和详情页展示；票夹移除网格视图并加入 Wallet 风格可滑动堆叠；完善各类票据详情信息；优化 Live Update、Samsung Now Bar 与 Xiaomi Super Island 的票种图标、状态显示、展开详情和新版详情页入口；修复 CameraX ExperimentalGetImage opt-in 问题。"
 }

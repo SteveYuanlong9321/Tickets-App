@@ -1,5 +1,5 @@
 # Tickets-App
-Tickets·票据
+Tickets·票据App
 
 一款基于 Android / Kotlin / Jetpack Compose 的数字票据管理 App。
 

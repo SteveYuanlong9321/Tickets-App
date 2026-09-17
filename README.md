@@ -13,8 +13,8 @@ NFC 一碰分享票据
 二维码分享票据
 Android 系统分享
 JSON / PDF 票据备份与恢复
-Live Update 实时票据通知
-Samsung Now Bar
+Live Update实时票据通知
+三星实时窗
 小米超级岛
 桌面 Widget
 票据搜索、收藏、自动归档
@@ -44,7 +44,7 @@ JSON / PDF 备份与恢复
 系统集成整理
 桌面 Widget 全尺寸适配
 二维码 / 条形码详情展示
-Live Update、Samsung Now Bar 与小米超级岛相关体验整理
+Live Update、三星实时窗与小米超级岛相关体验整理
 
 构建环境
 Android

@@ -1,6 +1,6 @@
 {
-  "versionCode": 600,
-  "versionName": "6.0.0",
-  "downloadUrl": "https://github.com/SteveYuanlong9321/Tickets-App/releases",
-  "changelog": "新增NFC一碰分享和二维码分享票据；新增票据活化与无边界呼吸光效；新增使用完成盖章，并按票据类型显示 ARRIVED / WATCHED / ATTENDED / VISITED / PICKED UP / COLLECTED；票据详情页同步呼吸光效，并在二维码 / 条形码区域显示加粗印章。"
+  "versionCode": 700,
+  "versionName": "v7.0.0",
+  "downloadUrl": "https://github.com/SteveYuanlong9321/Tickets-App/releases/latest/download/app-release.apk",
+  "changelog": "v7.0.0：智能地铁正式版。支持41个包含港澳台地区在内的中国城市以及7个美国城市，新增 GPS 实时行程跟踪、四路实时通知统一同步，以及“我已到达下一站”手动推进；完善多城市地铁线路、站点搜索、换乘与线路颜色支持。"
 }
